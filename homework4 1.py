@@ -25,7 +25,6 @@ pii = str(pi)
 
 while i <= count + 1:
     list[i] = pii[i]
-    print(list[i])
     i += 1
 
 list = "".join(list)
