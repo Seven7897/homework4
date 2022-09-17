@@ -6,7 +6,6 @@ list = []
 while (number > 2 or number > 1):
     i = 2
     number1 = number
-    print("11111")
     while (number == number1):
         if number % i == 0:
             number /= i
