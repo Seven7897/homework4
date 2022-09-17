@@ -5,7 +5,7 @@
 from itertools import count
 
 
-my_string = input("Введите елементы через запятую : ").split()
+my_string = input("Введите елементы через пробел : ").split()
 i = 0
 while (i < len(my_string)):
     j = i + 1
